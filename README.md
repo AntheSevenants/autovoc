@@ -15,7 +15,7 @@ autovoc finds a natural context for a specific word from the [British National C
 
 1. Clone the repository:  
     `git clone https://github.com/AntheSevenants/autovoc.git`
-2. Nagivate to the repository:  
+2. Navigate to the repository:  
     `cd autovoc`
 3. Create a virtual environment:  
 	`python3 -m venv venv`
