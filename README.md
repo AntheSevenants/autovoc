@@ -23,7 +23,7 @@ autovoc finds a natural context for a specific word from the [British National C
 	`source venv/bin/activate`
 5. Install the dependencies:  
 	`pip install -r requirements.txt`
-6. Download the required wordnet files by executing the following command.:  
+6. Download the required wordnet files by executing the following command:  
     `python3 -c 'import nltk; nltk.download("wordnet");'`  
     You only need to do this once.
 
